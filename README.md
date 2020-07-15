@@ -1,5 +1,5 @@
-# LeiSuTiYu
-LeiSuTiYu is a sports racing venue booking platform. We launch a variety of sports racing venues, you can book in our app to the most professional sports racing venues.
+# 7MTiYu
+7MTiYu is a sports racing venue booking platform. We launch a variety of sports racing venues, you can book in our app to the most professional sports racing venues.
 
 Our app is dedicated to promoting comfortable and professional sports racing venues in Beijing, so that people can efficiently and high-quality book their favorite sports racing venues in their daily life.
 
