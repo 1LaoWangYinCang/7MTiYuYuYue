@@ -1,8 +1,8 @@
-# Bitcoin Industry Hotspots
+# Digital Info Sharing Circle
 
-Bitcoin Industry Hotspots is committed to promoting the latest information of digital currency, so that people can timely and efficiently understand the digital currency market, currency circle news, real-time news, industry information and other information in the circle in daily life. It can also obtain real-time market information of various digital currencies, and can sign up for digital currency lectures.
+Digital Info Sharing Circle  is an app to help people exchange and share digital currency information. People can easily get the latest news, common sense of digital currency, real-time market, currency information and other information within the circle. At the same time, they can also put forward their own opinions on hot information, share news information, collect valuable news, and praise articles you think are good.
 
-Our app can also put forward our own opinions on hot news information, share news information and collect news that we think is valuable. You can also express your opinions on digital currency in the topic circle, exchange your ideas with others, and understand everyone's views on digital currency, so that you can go deeper into this circle.
+You can also express your opinions on digital currency in the community and exchange your ideas with others. At the same time, you can also make an appointment for lectures on digital currency, learn common knowledge of digital currency, consult relevant questions, and better understand the world of digital currency.
 
-Let you quickly get hot information of digital currency circle.
-If you have any questions, please contact us as follows :seephookjslv@hotmail.com
+Hot digital currency information sharing and exchange.
+If you have any questions, please contact us as follows :stiseauchph@hotmail.com
